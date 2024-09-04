@@ -16,3 +16,4 @@ This project includes a marked up letter using html formatting skills.
 ## Sources and Credits
 
 Shane Panter: https://github.com/shanep/web-dev-starter
+https://www.w3schools.com/html/html_formatting.asp
